@@ -1,0 +1,9 @@
+[package]
+name = "jubby"
+description = "A dark theme inspired by Tokyo Night with purple-tinted backgrounds, pink keywords, teal strings, gold types, and purple brackets."
+version = "0.1.0"
+authors = ["Zeke John"]
+schema_version = 1
+
+[themes]
+jubby = "themes/jubby.json"
