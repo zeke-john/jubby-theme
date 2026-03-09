@@ -2,7 +2,7 @@
 
 A simple and pleasant dark theme for [Zed](https://zed.dev/) inspired by Tokyo Night.
 
-[Symbols Icons](https://zed.dev/extensions/symbols) pair well with this theme, and are used in the screenshots below.
+[Symbols Icons](https://zed.dev/extensions/symbols) pairs well with this theme, and are used in the screenshots below.
 
 Screenshots ->
 
