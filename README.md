@@ -1,6 +1,6 @@
 # Jubby Theme for Zed
 
-A simple and pleasant dark theme for [Zed](https://zed.dev/) inspired by Tokyo Night.
+A simple and pleasant dark theme for [Zed](https://zed.dev/) inspired by Tokyo Night & LazyVim.
 
 [Symbols Icons](https://zed.dev/extensions/symbols) pairs well with this theme, and are used in the screenshots below.
 
