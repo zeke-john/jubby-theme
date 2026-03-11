@@ -15,12 +15,12 @@ Screenshots ->
 
 ## Install
 
-**Option 1: Makefile (macOS, Linux, Windows):**
+**Makefile (macOS, Linux, Windows):**
 ```sh
 make install
 ```
 
-**Option 2: Manual:**
+**Manual:**
 - Copy the `themes/*.json` files from this repo into `~/.config/zed/themes`.
 
 Then select your theme via Settings -> Select Theme.
