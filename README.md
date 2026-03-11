@@ -14,5 +14,13 @@ Screenshots ->
 <img width="1624" height="1056" alt="Screenshot 2026-03-09 at 4 48 41 PM" src="https://github.com/user-attachments/assets/ff202266-a588-4c52-a599-1bce91a21dcb" />
 
 ## Install
+
+**Option 1 — Makefile (macOS, Linux, Windows):**
+```sh
+make install
+```
+
+**Option 2 — Manual:**
 - Copy the `themes/*.json` files from this repo into `~/.config/zed/themes`.
-- Select your theme (Settings -> Select Theme).
+
+Then select your theme via Settings -> Select Theme.
