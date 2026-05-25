@@ -1,5 +1,7 @@
 # Jubby Theme for Zed
 
+https://zed.dev/extensions/jubby-theme
+
 A simple and pleasant dark theme for [Zed](https://zed.dev/) inspired by Tokyo Night & LazyVim.
 
 [Symbols Icons](https://zed.dev/extensions/symbols) pair well with this theme, and are used in the screenshots below.
@@ -15,12 +17,14 @@ Screenshots ->
 
 ## Install
 
-Option 1 - **Makefile (macOS, Linux, Windows):**
+Option 1 - Search "Jubby" on the zed `Extensions` page on Zed, and install it from there!
+
+Option 2 - **Makefile (macOS, Linux, Windows):**
 ```sh
 make install
 ```
 
-Option 2 - **Manual:**
+Option 3 - **Manual:**
 - Copy the `themes/*.json` files from this repo into `~/.config/zed/themes`.
 
 Then select your theme via Settings -> Select Theme.
